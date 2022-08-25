@@ -10,4 +10,4 @@ TitorPs360 created a model and shared his codes [here](https://github.com/TitorP
 ## Implementation
 My (first) model is based on a pre-trained ResNet152 model (I'm just trying to learn about stuffs here). It is implemented using Tensorflow and Keras, and retrained using my laptop equipped with RTX2070 Max-Q. So far, the model could correctly classify 103/107 test images, or about 96.26%. A confusion matrix is shown below. Please see the notebook file for more details.
 
-![confusion matrix](https://github.com/pkhamchuai/horapa-kaprao-classification/raw/main/fig/output.png)
+![confusion matrix](https://github.com/pkhamchuai/horapa-kaprao-classification/blob/main/fig/output.png)
